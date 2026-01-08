@@ -1,0 +1,5 @@
+{
+  "name": "Pro-Terminal API Tester",
+  "description": "A professional-grade API testing dashboard with a dark terminal-style interface, supporting bulk testing, real-time logging, and phone number formatting logic.",
+  "requestFramePermissions": []
+}
